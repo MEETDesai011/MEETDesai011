@@ -13,7 +13,7 @@
 </div>
 ---
  
-## 🧠 whoami
+## 🧠 who am I
  
 ```python
 meet = {
