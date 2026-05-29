@@ -34,12 +34,13 @@ meet = {
  
 | Project | What it does | Stack |
 |--------|-------------|-------|
+| 🎵 **Zzen** | Flutter meditation & focus app with ambient sounds and Firebase backend | Dart · Flutter · Firebase |
 | 🏥 **ShiftGuard** | AI clinical handoff system — nurses ending shifts brief incoming nurses automatically | Python · Gemini AI · FHIR |
 | 🔬 **ScholarMate** | Chrome extension that summarizes, translates & proofreads using on-device AI | JavaScript · Chrome APIs |
-| ⚛️ **AtomQuest 2026** | Enterprise goal-setting & tracking portal for Atomberg | JavaScript |
 | 🚚 **Truck-Set-Go** | Logistics management mobile app | Flutter · Dart |
- 
----
+| ⚛️ **AtomQuest 2026** | Enterprise goal-setting & tracking portal for Atomberg | JavaScript |
+
+------
  
 ## 🛠️ Tech Stack
  
