@@ -1,17 +1,18 @@
 <div align="center">
-<!-- Animated wave header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Meet%20Desai&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Builder.%20Thinker.%20Shipping%20things%20that%20matter.&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=CE+Student+%40+SVKM+Mumbai+%F0%9F%8F%AB;Building+AI+tools+that+actually+ship+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+Flutter+dev;Hackathon+competitor+%7C+Open+source+contrib;Turning+real+problems+into+real+code+%F0%9F%94%A5)](https://git.io/typing-svg)
- 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=CE+Student+%40+SVKM+Mumbai;Building+AI+tools+that+actually+ship;Python+%7C+JavaScript+%7C+Flutter+dev;Hackathon+competitor+%7C+Open+source;Turning+real+problems+into+real+code" alt="Typing SVG" />
+
 <br/>
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-meetdesai011-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meetdesai011)
-[![GitHub](https://img.shields.io/badge/GitHub-MEETDesai011-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEETDesai011)
-[![Gmail](https://img.shields.io/badge/Gmail-meetdesai0311-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetdesai0311@gmail.com)
- 
+
+<a href="https://linkedin.com/in/meetdesai011"><img src="https://img.shields.io/badge/LinkedIn-meetdesai011-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/MEETDesai011"><img src="https://img.shields.io/badge/GitHub-MEETDesai011-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:meetdesai0311@gmail.com"><img src="https://img.shields.io/badge/Gmail-meetdesai0311-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 </div>
----
+
+-------
  
 ## 🧠 who am I
  
