@@ -76,13 +76,16 @@ meet = {
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEETDesai011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEETDesai011&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MEETDesai011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MEETDesai011&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MEETDesai011&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
 </div>
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=MEETDesai011&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
- 
-</div>
+
 ---
  
 ## 🏆 Hackathons & Highlights
