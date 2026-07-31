@@ -25,7 +25,7 @@ meet = {
     "currently"  : "Competing in $25K healthcare AI hackathon",
     "fun_fact"   : "I ship things that solve real problems, not just demo projects",
     "open_to"    : ["collabs", "freelance", "open source"]
-}
+ }
 ```
  
 ---
