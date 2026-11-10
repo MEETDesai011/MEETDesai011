@@ -17,7 +17,8 @@
 ## 🧠 who am I
  
 ```python
-meet = {
+meet = 
+{
     "name"       : "Meet Desai",
     "location"   : "Mumbai, India 🇮🇳",
     "education"  : "Diploma in Computer Engineering @ SVKM's SBMP",
@@ -25,7 +26,7 @@ meet = {
     "currently"  : "Competing in $25K healthcare AI hackathon",
     "fun_fact"   : "I ship things that solve real problems, not just demo projects",
     "open_to"    : ["collabs", "freelance", "open source"]
- }
+}
 ```
  
 ---
