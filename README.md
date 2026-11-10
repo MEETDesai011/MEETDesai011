@@ -12,24 +12,33 @@
 
 </div>
 
--------
- 
-## 🧠 who am I
- 
+
+---
+
+## 🧠 Who Am I?
+
 ```python
-meet = 
-{
-    "name"       : "Meet Desai",
-    "location"   : "Mumbai, India 🇮🇳",
-    "education"  : "Diploma in Computer Engineering @ SVKM's SBMP",
-    "building"   : ["AI tools", "Web apps", "Shopify solutions"],
-    "currently"  : "Competing in $25K healthcare AI hackathon",
-    "fun_fact"   : "I ship things that solve real problems, not just demo projects",
-    "open_to"    : ["collabs", "freelance", "open source"]
+meet = {
+    "name": "Meet Desai",
+    "location": "Mumbai, India 🇮🇳",
+    "education": "Diploma in Computer Engineering @ SVKM's SBMP",
+    "building": [
+        "AI tools",
+        "Web apps",
+        "Shopify solutions"
+    ],
+    "currently": "Competing in a $25K Healthcare AI Hackathon",
+    "fun_fact": "I ship things that solve real problems, not just demo projects.",
+    "open_to": [
+        "Collaborations",
+        "Freelance",
+        "Open Source"
+    ]
 }
 ```
- 
+
 ---
+
  
 ## 🚀 What I'm Building
  
